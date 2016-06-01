@@ -17,7 +17,7 @@ ps 注意详细地址的前置写死的  广东省-深圳-宝安区 没时间写
   <img src="https://raw.githubusercontent.com/hackxhj/DingTalkDaKa-Tweak.xm/master/img/IMG_3.PNG" alt="show" title="show">
 
 抓包验证下 成功发送
-  <img src="https://raw.githubusercontent.com/hackxhj/DingTalkDaKa-Tweak.xm/master/img/IMG_4.PNG" alt="show" title="show">
+  <img src="https://raw.githubusercontent.com/hackxhj/DingTalkDaKa-Tweak.xm/master/img/IMG_4.png" alt="show" title="show">
 
 本地查看是否成功
   <img src="https://raw.githubusercontent.com/hackxhj/DingTalkDaKa-Tweak.xm/master/img/IMG_5.PNG" alt="show" title="show">
