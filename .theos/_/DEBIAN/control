@@ -1,0 +1,10 @@
+Package: com.hackxhj.hookdd
+Name: hookdd
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: hackxhj
+Author: hackxhj
+Section: Tweaks
+Version: 0.0.173
+Installed-Size: 120
